@@ -1,6 +1,6 @@
 
 
-  return (
+  (
     <div className="p-6 bg-gray-100 rounded-lg shadow-md">
       <h2 className="text-2xl font-bold mb-4">About Me</h2>
       <p className="text-lg mb-2">Age: {age} years</p>
@@ -16,5 +16,3 @@
     </div>
   );
 };
-
-export default MyGitHubProfile;
