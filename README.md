@@ -1,9 +1,42 @@
-- 👋 Hi, I’m @LLOVST
-- 👀 I’m interested in HTML & CSS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on DIGIFY.LOL
-- 📫 How to reach me DISCORD
-- 😄 Pronouns: HIM/JUNG/UN
-- ⚡ Fun fact: YRN
+import React, { useState, useEffect } from 'react';
 
+const MyGitHubProfile = () => {
+  const [age, setAge] = useState(0);
 
+  useEffect(() => {
+    const calculateAge = () => {
+      const today = new Date();
+      const birthDate = new Date('2004-06-11');
+      const yearsDiff = today.getFullYear() - birthDate.getFullYear();
+      const monthsDiff = today.getMonth() - birthDate.getMonth();
+
+      let calculatedAge = yearsDiff;
+      if (monthsDiff < 0 || (monthsDiff === 0 && today.getDate() < birthDate.getDate())) {
+        calculatedAge--;
+      }
+
+      setAge(calculatedAge);
+    };
+
+    const interval = setInterval(calculateAge, 1000);
+    return () => clearInterval(interval);
+  }, []);
+
+  return (
+    <div className="p-6 bg-gray-100 rounded-lg shadow-md">
+      <h2 className="text-2xl font-bold mb-4">About Me</h2>
+      <p className="text-lg mb-2">Age: {age} years</p>
+      <p className="text-lg mb-4">Born on: June 11, 2004</p>
+      <h3 className="text-xl font-bold mb-2">Skills</h3>
+      <ul className="list-disc pl-6">
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>Python</li>
+        <li>SQL</li>
+      </ul>
+    </div>
+  );
+};
+
+export default MyGitHubProfile;
