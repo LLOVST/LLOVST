@@ -1,18 +1,4 @@
-import React, { useState, useEffect } from 'react';
 
-const MyGitHubProfile = () => {
-  const [age, setAge] = useState(0);
-
-  useEffect(() => {
-    const calculateAge = () => {
-      const today = new Date();
-      const birthDate = new Date('2004-06-11');
-      const yearsDiff = today.getFullYear() - birthDate.getFullYear();
-      const monthsDiff = today.getMonth() - birthDate.getMonth();
-
-      
-    return () => clearInterval(interval);
-  }, []);
 
   return (
     <div className="p-6 bg-gray-100 rounded-lg shadow-md">
