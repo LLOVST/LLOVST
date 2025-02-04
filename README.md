@@ -10,15 +10,7 @@ const MyGitHubProfile = () => {
       const yearsDiff = today.getFullYear() - birthDate.getFullYear();
       const monthsDiff = today.getMonth() - birthDate.getMonth();
 
-      let calculatedAge = yearsDiff;
-      if (monthsDiff < 0 || (monthsDiff === 0 && today.getDate() < birthDate.getDate())) {
-        calculatedAge--;
-      }
-
-      setAge(calculatedAge);
-    };
-
-    const interval = setInterval(calculateAge, 1000);
+      
     return () => clearInterval(interval);
   }, []);
 
