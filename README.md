@@ -60,13 +60,11 @@
 
 ---
 
-## Latest YouTube Videos
+## Latest YouTube Video
 
-<!-- YOUTUBE:START -->
-Coming soon! Subscribe to see my latest content
-<!-- YOUTUBE:END -->
+[![YouTube Video](https://img.youtube.com/vi/fgFVzMqlUWA/maxresdefault.jpg)](https://www.youtube.com/watch?v=fgFVzMqlUWA)
 
-[More videos...](https://www.youtube.com/@xixxv)
+[Watch on YouTube](https://www.youtube.com/watch?v=fgFVzMqlUWA) | [More videos...](https://www.youtube.com/@xixxv)
 
 ---
 
@@ -84,7 +82,5 @@ Coming soon! Subscribe to see my latest content
 Based in Texas | Mixed Hispanic | 21 years old | AI enthusiast
 
 Currently building new features for Digify, developing Cyber Break updates, and maintaining Minerva Bot
-
-![Profile Views](https://komarev.com/ghpvc/?username=LLOVST&color=blueviolet&style=plastic)
 
 </div>
