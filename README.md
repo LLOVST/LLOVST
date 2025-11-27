@@ -4,27 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Building+Cool+Stuff+on+the+Web;Founder+of+Digify;Dev+of+Cyber+Break;Dev+for+Minerva+Bot;Former+Sorrow+Bot+Manager;Created+Beta+Bot" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=LLOVST&color=blueviolet&style=plastic)
-
----
-
-## 👨‍💻 Currently Working On
-
-🔨 Building new features for Digify  
-🎮 Developing Cyber Break updates  
-🤖 Maintaining Minerva Bot  
-
----
-
-## 🎯 Fun Facts About Me
-
-- 📍 Based in Texas
-- 🌎 Mixed Hispanic
-- 🎂 21 years old
-- 💻 I code (sometimes)
-- 🎮 Love building Discord bots
-- ☁️ Cloud infrastructure enthusiast
-
 ---
 
 ## Languages
@@ -65,15 +44,10 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/LLOVST)
 
----
+## AI Tools
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- Coming soon! Subscribe to see my latest content
-<!-- YOUTUBE:END -->
-
-➡️ [More videos...](https://www.youtube.com/@xixxv)
+[![Claude](https://img.shields.io/badge/Claude-181A1F?style=plastic&logo=anthropic&logoColor=white)](https://claude.ai/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=plastic&logo=openai&logoColor=white)](https://chat.openai.com/)
 
 ---
 
@@ -86,11 +60,31 @@
 
 ---
 
+## Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+Coming soon! Subscribe to see my latest content
+<!-- YOUTUBE:END -->
+
+[More videos...](https://www.youtube.com/@xixxv)
+
+---
+
 ## Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@xixxv)
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.gg/j3U2mcRnR4)
 [![Portfolio](https://img.shields.io/badge/guns.lol%2Fdigify-FF6B6B?style=plastic&logo=google-chrome&logoColor=white)](https://guns.lol/digify)
 [![Portfolio](https://img.shields.io/badge/guns.lol%2Fxixxv-4ECDC4?style=plastic&logo=google-chrome&logoColor=white)](https://guns.lol/xixxv)
+
+---
+
+## About Me & Currently Working On
+
+Based in Texas | Mixed Hispanic | 21 years old | AI enthusiast
+
+Currently building new features for Digify, developing Cyber Break updates, and maintaining Minerva Bot
+
+![Profile Views](https://komarev.com/ghpvc/?username=LLOVST&color=blueviolet&style=plastic)
 
 </div>
