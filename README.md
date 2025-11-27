@@ -1,8 +1,29 @@
 <div align="center">
 
-# Hi there! I'm LOST
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm LOST
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Building+Cool+Stuff+on+the+Web;Founder+of+Digify;Dev+of+Cyber+Break;Dev+for+Minerva+Bot;Former+Sorrow+Bot+Manager;Created+Beta+Bot" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=LLOVST&color=blueviolet&style=plastic)
+
+---
+
+## 👨‍💻 Currently Working On
+
+🔨 Building new features for Digify  
+🎮 Developing Cyber Break updates  
+🤖 Maintaining Minerva Bot  
+
+---
+
+## 🎯 Fun Facts About Me
+
+- 📍 Based in Texas
+- 🌎 Mixed Hispanic
+- 🎂 21 years old
+- 💻 I code (sometimes)
+- 🎮 Love building Discord bots
+- ☁️ Cloud infrastructure enthusiast
 
 ---
 
@@ -46,11 +67,22 @@
 
 ---
 
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- Coming soon! Subscribe to see my latest content
+<!-- YOUTUBE:END -->
+
+➡️ [More videos...](https://www.youtube.com/@xixxv)
+
+---
+
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LLOVST&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLOVST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LLOVST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLOVST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
+</p>
 
 ---
 
