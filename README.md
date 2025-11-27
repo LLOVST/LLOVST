@@ -18,8 +18,11 @@
 
 [![React/JSX](https://img.shields.io/badge/React%2FJSX-61DAFB?style=plastic&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black)](https://prettier.io/)
 
 ## Operating Systems
 
@@ -45,9 +48,9 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLOVST&theme=tokyonight&hide_border=true&background=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LLOVST&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLOVST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLOVST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
