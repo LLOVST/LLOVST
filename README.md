@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi there! 👋 I'm LOST
 
-## 💫 About Me
+### 💻 Full-stack developer
+### 🚀 Building cool stuff on the web
+### 🌐 Check out my work at [guns.lol/digify](https://guns.lol/digify) & [guns.lol/xixxv](https://guns.lol/xixxv)
 
-- 💻 Full-stack developer
-- 🚀 Building cool stuff on the web
-- 🌐 Check out my work at [guns.lol/digify](https://guns.lol/digify) & [guns.lol/xixxv](https://guns.lol/xixxv)
+---
 
 ## 🛠️ Languages
 
@@ -33,17 +35,24 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LLOVST)
 
+---
+
 ## 📊 GitHub Stats
 
-![LLOVST's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLOVST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=LLOVST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="LLOVST's GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLOVST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLOVST&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
-## 🔗 Links
+---
+
+## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/-guns.lol/digify-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://guns.lol/digify)
 [![Portfolio](https://img.shields.io/badge/-guns.lol/xixxv-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://guns.lol/xixxv)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LLOVST)
 
 ---
 
 💙 Thanks for visiting! Feel free to check out my repositories below 👇
+
+</div>
